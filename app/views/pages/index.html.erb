@@ -1,5 +1,26 @@
 <h1>Mostrando todos los Character</h1>
 
-<% @character.each do |a| %>
-    <%= image_tag "#{a.url_image}" %>
-   <% end %>
+<div class="notification is-primary"> 
+    <h1 class="title has-text-centered">Personajes de Harry Potter</h1>
+</div>
+
+<table class="table is-striped is-fullwidth">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Locación</th>
+            <th>Casa</th>
+        </tr>
+    </thead>
+    <tbody>
+        <% @pages.each do |character| %>
+            <tr>
+                <td><%= character.name %></td>
+                <td><%= character.location %></td>
+                <td><%= character.house %></td>
+            </tr>
+        <% end %>
+    </tbody>
+</table>
+
+

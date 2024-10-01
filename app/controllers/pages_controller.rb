@@ -1,4 +1,8 @@
 class PagesController < ApplicationController
-  def index
-  end
-end
+    def index
+        @pages = Character.all
+        end
+      end
+
+  
+
