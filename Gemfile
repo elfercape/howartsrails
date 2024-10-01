@@ -55,4 +55,5 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
   gem "faker"
+  gem 'net-pop', '~> 0.1.2'
 end
