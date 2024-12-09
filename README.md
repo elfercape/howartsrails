@@ -5,21 +5,23 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+¿Quien eres?
+Soy Fernando Lopes San Martin
 
-* System dependencies
+¿De donde eres?
+Santiago de Chile Region Metropolitana.
 
-* Configuration
+¿A que te dedicas?
+Soy Back Office para cliente Claro Call Center Konecta Chile.
 
-* Database creation
+¿Cual es tu Formacion? 
+Soy Contador General del instituto Los Leones.
 
-* Database initialization
+¿Cuales son tus experiencias previas?
+Estoy cursando un bootcamp en Inforcap por talento digital.
+En desarrollo en Ruby on Rails para emprendimiento en empresas Startup.
 
-* How to run the test suite
+¿Como y a traves de que medios pueden contactarte?
+https://www.linkedin.com/in/elfercap-elfer-aa52711b3/
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
-
-* ...
-"# howartsrails" 
